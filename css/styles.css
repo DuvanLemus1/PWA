@@ -7,6 +7,10 @@
     font-family: 'Open Sans', Verdana;
 }
 
+html, body{
+    overflow-x: hidden;
+}
+
 body{
     background: white;   
 }
@@ -229,7 +233,6 @@ MEDIA QUERY
     .service img{
         margin-bottom: 10px;
     }
-
 
 }
 
